@@ -6,7 +6,7 @@ Description: Google finds the most search keywords
 Version: 1.0
 Author: Ahmet Aksungur
 Author URI: http://ahmetaksungur.com/
-License: GNU
+License: MIT
 */
 ?>
 <?php function aks_keyword_box() { $aks_type = ['page', 'post', 'aks_keyword'];
